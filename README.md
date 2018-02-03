@@ -42,3 +42,43 @@ proj/
 ```
 
 Please see each subfolder for a README file.
+
+## Important Outcomes
+
++ The average length of sentences has an significant decreasing trend over time.
+
+![image](figs/avg.words_VS_Year1.png)
+
+Making a scatter plot and appling linear regression to the data, the decreasing tendency of number of words per sentence in the presidents’ inauguration speech is confirmed.
+
+![image](figs/avg.words_VS_Year2.png)
+
++ The average proportion of verb used in each speech by Democratic is larger than that by Republican.
+
+![image](figs/Proportion.verb.png)
+
++ Computing the frequency of verbs used by Republican and Democratic Presidents, we get the word clouds for two Parties.
+
+![image](figs/verbcloudRep.png)
+![image](figs/verbcloudDem.png)
+
++ Both 2 Parties have some unique verbs that are not frequently used by the other one.
+
+![image](figs/unique.words.png)
+
++  The proportion of verbs in the inauguration speech has an increasing tendency over time.
+
+![image](figs/prop.verb.time.png)
+![image](figs/prop.verb.time2.png)
+
++ Besides “negative” and “positive” sentiments, top 3 sentiments in all Presidents' speeches are “trust”, “anticipation” and “joy”.
+
+![image](figs/sentimens.all.png)
+
++ There is no significant difference among the degree of positive sentiment in all the presidents’ speeches.
+
+![image](figs/DP.png)
+
++ Making clustering analysis based on the two indexes, “Average words per sentence” and “proportion of verbs in a speech” are two good indexes that could “measure” the change of talking style of Presidents over time to some extent.
+
+![image](figs/cluster.png)
