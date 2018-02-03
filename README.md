@@ -79,6 +79,6 @@ Making a scatter plot and appling linear regression to the data, the decreasing 
 
 ![image](figs/DP.png)
 
-+ Making clustering analysis based on the two indexes, “Average words per sentence” and “proportion of verbs in a speech” are two good indexes that could “measure” the change of talking style of Presidents over time to some extent.
++ Making clustering analysis based on the two indexes, “average words per sentence” and “proportion of verbs in a speech” are two good indexes that could “measure” the change of talking style of Presidents over time to some extent.
 
 ![image](figs/cluster.png)
