@@ -6,7 +6,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2018
 
-+ Projec title: **The change of American presidents' inauguration speeches style over time.**
++ Projec title: **The change of talking style over time and the difference between two Parties of American Presidents' inauguration speeches.**
 + This project is conducted by **Jingtian Yao** *(jy2867)*
 
 + Project summary: In this project, I want to figure out that whether there exists any significant change in the talking style of American Presidents' inauguration speeches over time. If it does, we are willing to give reasonable explanations to those phenomena. I also want to find difference between the talking style of Republican and Democratic.
